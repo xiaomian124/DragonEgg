@@ -1,0 +1,6 @@
+name: DragonEgg
+version: 1.0
+main: com.xiaomian124.dragonegg.DragonEgg
+api-version: 26.2
+author: xiaomian124
+description: 将龙蛋放在末地祭坛上以召唤末影龙。
